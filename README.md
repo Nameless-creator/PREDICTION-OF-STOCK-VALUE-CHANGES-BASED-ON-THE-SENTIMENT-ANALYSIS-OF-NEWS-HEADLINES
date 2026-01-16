@@ -76,8 +76,7 @@ In a Decision tree, there are two nodes, which are the Decision Node and Leaf
 The decisions or the test are performed on the basis of features of the given dataset.
 It is a graphical representation for getting all the possible solutions to a problem/decision based on given conditions.
 
-
-(Picture4.ppg)
+![image alt](https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/b2f14010815267f6b6a9c18784681fc407a054c6/pasted%20file.png)
 
 <!-- Slide number: 12 -->
 # Random Forest Classifier
