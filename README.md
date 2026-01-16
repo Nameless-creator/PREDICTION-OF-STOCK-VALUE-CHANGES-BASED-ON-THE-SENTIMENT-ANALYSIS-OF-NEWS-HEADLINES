@@ -12,6 +12,7 @@ Thereafter performing 5-Cross validation or 10-Cross validation for testing the 
 
 <!-- Slide number: 3 -->
 # Proposed Model
+![image alt](https://github.com/Rogue5189/PREDICTION-OF-STOCK-VALUE-CHANGES-BASED-ON-THE-SENTIMENT-ANALYSIS-OF-NEWS-HEADLINES/blob/5c1ccea8f02bb695bb67a1eb87041803944120e7/Screenshot_20260116_214547.png)
 
 <!-- Slide number: 4 -->
 # Work Done
